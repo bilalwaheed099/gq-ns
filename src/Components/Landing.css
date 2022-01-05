@@ -1,0 +1,106 @@
+.landing-nav{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.landing-nav-btns{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.signup-btn{
+    width: 128px;
+    height: 42px;
+    border-radius: 32px;
+    background: #656E84;
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login-btn{
+    margin-right: 24px;
+    width: 106px;
+    height: 42px;
+    border-radius: 32px;
+    background: white;
+    text-decoration: none;
+    color: #656E84;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid #656E84;
+}
+
+.logo{
+    font-size: 26px;
+    font-weight: 700;
+    font-family: 'Mali', cursive;
+    color: #424857;
+}
+
+.landing-hero{
+    margin-top: 6vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.landing-left{
+    padding: 10vh 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.title{
+    font-size: 34px;
+    font-family: 'Mali', cursive;
+    color: #424857;
+    letter-spacing: -2px;
+}
+.landing-title{
+    font-weight: 600;
+}
+.landing-title-2{
+    margin-top: -6px;
+    color: #E95575;
+    font-weight: 600;
+}
+
+.landing-desc{
+    margin: 48px 0;
+    margin-left: 8px;
+    width: 65%;
+    line-height: 28px;
+    color: #656565;
+    opacity: 65%;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.landing-right{
+    /* margin-right: 4vw; */
+}
+.landing-right img{
+    width: 32vw;
+}
+
+.join-btn{
+    width: 200px;
+    height: 46px;
+    border-radius: 32px;
+    background: #656E84;
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
